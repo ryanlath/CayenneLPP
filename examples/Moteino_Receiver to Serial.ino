@@ -1,4 +1,4 @@
-// Moteino Pi Serial Receiver RFM69H
+// Moteino to Serial Receiver RFM69H
 // with CayenneLPP format
 //
 //

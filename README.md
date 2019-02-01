@@ -1,10 +1,11 @@
 # CayenneLPP
 
-This is an Arduino Library that implements a version of the Cayenne Low Power Payload for my use in RFM69 radiocommunication.  It is NOT intended for TTN (or Cayenne for that matter).  It varies in that there is one "channel" per payload, in my case, the "node id."  It also adds the "Voltage" format.
+This is an Arduino Library that implements a version of the Cayenne Low Power Payload for my use in low power radios like the RFM69 radio communication.  It is NOT intended for TTN (or Cayenne for that matter).  It varies in that there is one "channel" per payload, in my case, the "node id."  It also adds the "Voltage" format.
 
 It encodes.  It decodes to JSON via [ArduinoJson](https://arduinojson.org/).
 
 ## Documentation
+See code and examples.
 
 ##Examples
 
