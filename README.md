@@ -46,5 +46,5 @@ lppd.reset();
 
 ##Credits
 * [Cayenne Low Power Payload](https://mydevices.com/cayenne/docs/#lora-cayenne-low-power-payload)
-* Based in the work of [Johan Stokking](https://github.com/TheThingsNetwork/arduino-device-lib)
+* Based on the work of [Johan Stokking](https://github.com/TheThingsNetwork/arduino-device-lib)
 * Luiz Henrique Cassettari (decode stuff)
